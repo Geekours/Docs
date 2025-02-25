@@ -8,3 +8,5 @@
 - Fluxogram link: https://www.figma.com/board/wjEtED6hSE1aG3gdCjwxMS/Geekours?node-id=0-1&t=zygfJMDQ11FYE1d6-1
 
 - Documentation link: https://docs.google.com/document/d/1UQedqWNv8gQh7vEYbkghB0JDYsPfnL7HHWhgx2DeNMU/edit?usp=sharing
+
+- Figma link: https://www.figma.com/design/MwXZLNglxKiyU5ErOOsrAm/BASIC-PAGES?node-id=0-1&t=suOtBoc9tS11k3pu-1
